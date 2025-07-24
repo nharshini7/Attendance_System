@@ -1,1 +1,2 @@
 # Attendance_System
+This Python-based Attendance System leverages facial recognition and manual input to streamline attendance tracking. Featuring a user-friendly Tkinter GUI, it supports real-time face detection with OpenCV, subject-wise CSV record generation, and simple model training workflows. The system is modular, making it easily extensible for academic or personal use.
