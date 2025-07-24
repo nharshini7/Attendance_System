@@ -11,6 +11,9 @@
 
 # Technology Stack
 Language: Python 3.x
+
 Libraries: OpenCV, Tkinter, CSV
+
 Detection: Haar Cascade XML
+
 Recognition: LBPH (Local Binary Patterns Histogram)
