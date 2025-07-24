@@ -1,12 +1,20 @@
 # Attendance_System
 1. Clone repository
-   cd attendance-system
+
+    cd attendance-system
+   
 2. Set Up Virtual Environment
+
    python -m venv venv
-  source venv/bin/activate
+
+   source venv/bin/activate
+   
 3. Install Dependencies
+
    python takeImage.py
+   
 4. Run the Application
+
    python takeImage.py
 
 # Technology Stack
